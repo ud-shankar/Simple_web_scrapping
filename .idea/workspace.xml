@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49b028f0-6039-4907-a017-710dd59ad0be" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Gherkin feature file" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="b7b8262a-28da-4382-8520-9835f2ef7f52" />
+  <component name="ProjectId" id="1idkZsgb1PRhvl46jubVuo9irFp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\CodeMyMobile" />
+      <recent name="C:\CodeMyMobile\Source" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in test_Twitter.py">
+    <configuration name="Locators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodeMyMobile" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pages" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pages/Locators.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_Twitter.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="CodeMyMobile" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Source" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Source/test_Twitter.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in test_Twitter.py" />
+        <item itemvalue="Python.Locators" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49b028f0-6039-4907-a017-710dd59ad0be" name="Default Changelist" comment="" />
+      <created>1602244915252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602244915252</updated>
+      <workItem from="1602244916363" duration="144000" />
+      <workItem from="1602245180317" duration="1245000" />
+      <workItem from="1602247305873" duration="596000" />
+      <workItem from="1602249265967" duration="1884000" />
+      <workItem from="1602251223999" duration="2243000" />
+      <workItem from="1602257184618" duration="1980000" />
+      <workItem from="1602259755798" duration="827000" />
+      <workItem from="1602261940067" duration="1782000" />
+      <workItem from="1602263787157" duration="1778000" />
+      <workItem from="1602265605659" duration="970000" />
+      <workItem from="1602306043750" duration="1911000" />
+      <workItem from="1602308054367" duration="1753000" />
+      <workItem from="1602309894556" duration="1772000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1461" height="13" key="GridCell.Tab.0.bottom" timestamp="1602310918250">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="13" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1602310918250" />
+    <state width="1461" height="13" key="GridCell.Tab.0.center" timestamp="1602310918250">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="13" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1602310918250" />
+    <state width="1461" height="13" key="GridCell.Tab.0.left" timestamp="1602310918249">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="13" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1602310918249" />
+    <state width="1461" height="13" key="GridCell.Tab.0.right" timestamp="1602310918250">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="13" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1602310918250" />
+    <state width="1461" height="431" key="GridCell.Tab.1.bottom" timestamp="1602310614970">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="431" key="GridCell.Tab.1.bottom/0.0.1504.963@0.0.1504.963" timestamp="1602310614970" />
+    <state width="1461" height="431" key="GridCell.Tab.1.center" timestamp="1602310614970">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="431" key="GridCell.Tab.1.center/0.0.1504.963@0.0.1504.963" timestamp="1602310614970" />
+    <state width="1461" height="431" key="GridCell.Tab.1.left" timestamp="1602310614970">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="431" key="GridCell.Tab.1.left/0.0.1504.963@0.0.1504.963" timestamp="1602310614970" />
+    <state width="1461" height="431" key="GridCell.Tab.1.right" timestamp="1602310614970">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state width="1461" height="431" key="GridCell.Tab.1.right/0.0.1504.963@0.0.1504.963" timestamp="1602310614970" />
+    <state x="415" y="206" width="672" height="678" key="search.everywhere.popup" timestamp="1602262855315">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="415" y="206" width="672" height="678" key="search.everywhere.popup/0.0.1504.963@0.0.1504.963" timestamp="1602262855315" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Source/test_Twitter.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Source/test_Twitter.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Source/test_Twitter.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Source/test_Twitter.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Source/test_Twitter.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Source/test_Twitter.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Source/conftest.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Source/conftest.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CodeMyMobile$Locators.coverage" NAME="Locators Coverage Results" MODIFIED="1602266204700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pages" />
+    <SUITE FILE_PATH="coverage/CodeMyMobile$pytest_in_test_Twitter_py.coverage" NAME="pytest in test_Twitter.py Coverage Results" MODIFIED="1602310918226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source" />
+  </component>
+</project>
