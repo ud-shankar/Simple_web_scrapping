@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49b028f0-6039-4907-a017-710dd59ad0be" name="Default Changelist" comment="" />
+    <list default="true" id="49b028f0-6039-4907-a017-710dd59ad0be" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="b7b8262a-28da-4382-8520-9835f2ef7f52" />
   <component name="ProjectId" id="1idkZsgb1PRhvl46jubVuo9irFp" />
@@ -104,6 +106,7 @@
       <workItem from="1602306043750" duration="1911000" />
       <workItem from="1602308054367" duration="1753000" />
       <workItem from="1602309894556" duration="1772000" />
+      <workItem from="1602311711588" duration="573000" />
     </task>
     <servers />
   </component>
@@ -111,6 +114,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="618" y="379" key="Github.ShareDialog" timestamp="1602312162411">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="618" y="379" key="Github.ShareDialog/0.0.1504.963@0.0.1504.963" timestamp="1602312162411" />
+    <state x="605" y="186" key="Github.UntrackedFilesDialog" timestamp="1602312183515">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="605" y="186" key="Github.UntrackedFilesDialog/0.0.1504.963@0.0.1504.963" timestamp="1602312183515" />
     <state width="1461" height="13" key="GridCell.Tab.0.bottom" timestamp="1602310918250">
       <screen x="0" y="0" width="1504" height="963" />
     </state>

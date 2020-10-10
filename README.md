@@ -1,5 +1,5 @@
-##
-# **Copy followers list of twitter users into .CSV file using PyTest framework**
+# **Simple Web Scrapping**
+## Copy followers list of twitter users into .CSV file using PyTest framework
 
 The Test Automation Framework is created for automating test cases - login, search and copying followers to a file.
 
