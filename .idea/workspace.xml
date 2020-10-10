@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49b028f0-6039-4907-a017-710dd59ad0be" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/chromedriver.py" beforeDir="false" afterPath="$PROJECT_DIR$/Drivers/chromedriver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/test_Twitter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Source/test_Twitter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,14 +108,32 @@
       <workItem from="1602306043750" duration="1911000" />
       <workItem from="1602308054367" duration="1753000" />
       <workItem from="1602309894556" duration="1772000" />
-      <workItem from="1602311711588" duration="573000" />
+      <workItem from="1602311711588" duration="1189000" />
+      <workItem from="1602314882587" duration="1057000" />
+      <workItem from="1602317316370" duration="717000" />
     </task>
+    <task id="LOCAL-00001" summary="README updated">
+      <created>1602312307499</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602312307500</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="README updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="README updated" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="376" y="50" key="CommitChangelistDialog2" timestamp="1602312306035">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="376" y="50" key="CommitChangelistDialog2/0.0.1504.963@0.0.1504.963" timestamp="1602312306035" />
     <state x="618" y="379" key="Github.ShareDialog" timestamp="1602312162411">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
@@ -122,22 +142,22 @@
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="605" y="186" key="Github.UntrackedFilesDialog/0.0.1504.963@0.0.1504.963" timestamp="1602312183515" />
-    <state width="1461" height="13" key="GridCell.Tab.0.bottom" timestamp="1602310918250">
+    <state width="1461" height="2" key="GridCell.Tab.0.bottom" timestamp="1602317899182">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1461" height="13" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1602310918250" />
-    <state width="1461" height="13" key="GridCell.Tab.0.center" timestamp="1602310918250">
+    <state width="1461" height="2" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1602317899182" />
+    <state width="1461" height="2" key="GridCell.Tab.0.center" timestamp="1602317899181">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1461" height="13" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1602310918250" />
-    <state width="1461" height="13" key="GridCell.Tab.0.left" timestamp="1602310918249">
+    <state width="1461" height="2" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1602317899181" />
+    <state width="1461" height="2" key="GridCell.Tab.0.left" timestamp="1602317899180">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1461" height="13" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1602310918249" />
-    <state width="1461" height="13" key="GridCell.Tab.0.right" timestamp="1602310918250">
+    <state width="1461" height="2" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1602317899180" />
+    <state width="1461" height="2" key="GridCell.Tab.0.right" timestamp="1602317899181">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1461" height="13" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1602310918250" />
+    <state width="1461" height="2" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1602317899181" />
     <state width="1461" height="431" key="GridCell.Tab.1.bottom" timestamp="1602310614970">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
@@ -154,6 +174,10 @@
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state width="1461" height="431" key="GridCell.Tab.1.right/0.0.1504.963@0.0.1504.963" timestamp="1602310614970" />
+    <state x="345" y="214" key="Vcs.Push.Dialog.v2" timestamp="1602315175549">
+      <screen x="0" y="0" width="1504" height="963" />
+    </state>
+    <state x="345" y="214" key="Vcs.Push.Dialog.v2/0.0.1504.963@0.0.1504.963" timestamp="1602315175549" />
     <state x="415" y="206" width="672" height="678" key="search.everywhere.popup" timestamp="1602262855315">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
@@ -164,32 +188,32 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Source/test_Twitter.py</url>
-          <line>45</line>
+          <line>42</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Source/test_Twitter.py</url>
-          <line>65</line>
+          <line>62</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Source/test_Twitter.py</url>
-          <line>68</line>
+          <line>65</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Source/test_Twitter.py</url>
-          <line>42</line>
+          <line>39</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Source/test_Twitter.py</url>
-          <line>43</line>
+          <line>40</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Source/test_Twitter.py</url>
-          <line>64</line>
+          <line>61</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -207,6 +231,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CodeMyMobile$Locators.coverage" NAME="Locators Coverage Results" MODIFIED="1602266204700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pages" />
-    <SUITE FILE_PATH="coverage/CodeMyMobile$pytest_in_test_Twitter_py.coverage" NAME="pytest in test_Twitter.py Coverage Results" MODIFIED="1602310918226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source" />
+    <SUITE FILE_PATH="coverage/CodeMyMobile$pytest_in_test_Twitter_py.coverage" NAME="pytest in test_Twitter.py Coverage Results" MODIFIED="1602317899129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source" />
   </component>
 </project>

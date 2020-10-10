@@ -9,13 +9,10 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 
-wait = WebDriverWait(driver, 200)
-
-
-@pytest.mark.login
-@scenario('../Feature/Twitter.feature','User logs into twitter with username and password')
-def test_login_page():
-    pass
+# @pytest.mark.login
+# @scenario('../Feature/Twitter.feature','User logs into twitter with username and password')
+# def test_login_page():
+#     pass
 
 
 @pytest.mark.search
@@ -39,7 +36,7 @@ def username_password():
 @when("User searches for his/her favourite celebrity")
 def search():
     driver.find_element_by_css_selector(dashboard.txt_search).send_keys("@reliancegroup")
-    element = wait.until(EC.element_to_be_clickable((By.XPATH, dashboard.first_element)))
+    time.sleep(3)
     options = driver.find_elements_by_xpath(dashboard.first_element)
     time.sleep(5)
     if (len(options) != 0):
