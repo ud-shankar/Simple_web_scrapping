@@ -28,8 +28,8 @@ def logging_in():
 
 @when("User enters username, password and clicks sign-in button")
 def username_password():
-    driver.find_element_by_name(login_page.txt_username).send_keys("Shankar88463029")
-    driver.find_element_by_name(login_page.txt_password).send_keys("#SS_automation")
+    driver.find_element_by_name(login_page.txt_username).send_keys("***********")
+    driver.find_element_by_name(login_page.txt_password).send_keys("**********")
     driver.find_element_by_css_selector(login_page.btn_submit).click()
 
 
